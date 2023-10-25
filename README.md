@@ -4,7 +4,10 @@ https://create-react-app.dev/docs/adding-typescript
 https://www.youtube.com/watch?v=XTgB4esy1is&list=WL&index=2&t=220s
 * 
 
+
 ## Follow these instructions
+* Styling: Material UI: npm install @mui/material @emotion/react @emotion/styled
+
 npx create-react-app my-app --template typescript
 <br>
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
