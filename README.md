@@ -1,6 +1,8 @@
 ## Tutorial Resource
 https://create-react-app.dev/docs/adding-typescript
-
+<br>
+https://www.youtube.com/watch?v=XTgB4esy1is&list=WL&index=2&t=220s
+* 
 
 ## Follow these instructions
 npx create-react-app my-app --template typescript
