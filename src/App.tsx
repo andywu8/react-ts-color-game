@@ -3,9 +3,13 @@ import './App.css';
 function CountryCapitalGame({data}: {data: Record<string, string>}){
   const countries = Object.keys(data);
   const capitals = Object.values(data);
+  const options = [...countries, ...capitals];
   return (
     <>
-      <button></button>
+      <p>Hello</p>
+      {options.map((option) => (
+        <button>{option}</button>
+      ))}
     </>
   )
 }
